@@ -1,0 +1,66 @@
+body{
+    font-family: 'Ramabhadra', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: larger;
+    margin: 0;
+    width: 70%;
+}
+.mission{
+    color: coral;
+}
+.aim{
+    display: flex;
+}
+.half-width img{
+    width: 30%;
+}
+.half-width{
+    margin: 50px;
+    padding: 5px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(54, 43, 36), yellow);
+    border-radius: 10%;
+    padding: 10px 10px;
+}
+.section-2{
+    text-align: center;
+}
+.column{
+float: left;
+margin: 8%;
+width: 15%;
+box-shadow: 10px 10px 40px grey;
+padding-left: 2%;
+border-radius: 10px;
+}
+.row img{
+    width: 50%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-bottom: 150px;
+}
+.dream-big{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
