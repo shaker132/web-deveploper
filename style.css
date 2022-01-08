@@ -28,3 +28,12 @@ h1{
     background-repeat: no-repeat;
     display: flex;
 }
+.dream-big{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.shaker{
+    width: 50%;
+}
